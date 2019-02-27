@@ -10,7 +10,7 @@
 # Sample JSON:  {"username":"RF","email":"fedex@gmail.com","password":"fedex", "isrecruiter" : 1}
 #-------------------------------------------------------------------------------
 from root import application, db, bcrypt
-#from jwt import encode
+from jwt import encode
 from datetime import datetime, timedelta
 from models.seekerdetails import Seekerdetails
 
@@ -151,8 +151,8 @@ class Users(db.Model):
 				"sub": self.id,
 				"name": self.username
 			}
-			#return encode(payload, self.username, headers=header)
-			return "hshhdhdsjlhlfdjh"
+			return encode(payload, self.username, headers=header)
+			#return "hshhdhdsjlhlfdjh"
 		except Exception as e:
 			return e
 
