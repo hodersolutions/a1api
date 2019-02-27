@@ -1,7 +1,6 @@
 from flask import request, Response
 from json import dumps
 from functools import wraps
-from jwt import decode
 
 def token_required(f):
 	@wraps(f)
