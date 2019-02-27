@@ -1,0 +1,418 @@
+[
+  {
+    "town": "Anantapur",
+    "district_id": 1
+  },
+  {
+    "town": "Kakkalapalle",
+    "district_id": 1
+  },
+  {
+    "town": "Narayanapuram",
+    "district_id": 1
+  },
+  {
+    "town": "Papampeta",
+    "district_id": 1
+  },
+  {
+    "town": "Somandepalle",
+    "district_id": 1
+  },
+  {
+    "town": "Uravakonda",
+    "district_id": 1
+  },
+  {
+    "town": "Yenumalapalle",
+    "district_id": 1
+  },
+  {
+    "town": "Akkarampalle",
+    "district_id": 2
+  },
+  {
+    "town": "Avilala",
+    "district_id": 2
+  },
+  {
+    "town": "Cherlopalle",
+    "district_id": 2
+  },
+  {
+    "town": "Kuppam",
+    "district_id": 2
+  },
+  {
+    "town": "Mangalam",
+    "district_id": 2
+  },
+  {
+    "town": "Mangasamudram",
+    "district_id": 2
+  },
+  {
+    "town": "Murakambattu",
+    "district_id": 2
+  },
+  {
+    "town": "Narayanavanam",
+    "district_id": 2
+  },
+  {
+    "town": "Perur",
+    "district_id": 2
+  },
+  {
+    "town": "Pileru",
+    "district_id": 2
+  },
+  {
+    "town": "Renigunta",
+    "district_id": 2
+  },
+  {
+    "town": "Tiruchanur",
+    "district_id": 2
+  },
+  {
+    "town": "Tirumala",
+    "district_id": 2
+  },
+  {
+    "town": "Tirupati (NMA)",
+    "district_id": 2
+  },
+  {
+    "town": "Arempudi",
+    "district_id": 3
+  },
+  {
+    "town": "Bandarulanka",
+    "district_id": 3
+  },
+  {
+    "town": "Chidiga",
+    "district_id": 3
+  },
+  {
+    "town": "Morampudi",
+    "district_id": 3
+  },
+  {
+    "town": "Ramanayyapeta",
+    "district_id": 3
+  },
+  {
+    "town": "Rampachodavaram",
+    "district_id": 3
+  },
+  {
+    "town": "Suryaraopeta",
+    "district_id": 3
+  },
+  {
+    "town": "Vaddeswaram",
+    "district_id": 4
+  },
+  {
+    "town": "Chennamukkapalle",
+    "district_id": 5
+  },
+  {
+    "town": "Dommara Nandyala",
+    "district_id": 5
+  },
+  {
+    "town": "Gopavaram",
+    "district_id": 5
+  },
+  {
+    "town": "Mangampeta",
+    "district_id": 5
+  },
+  {
+    "town": "Modameedipalle",
+    "district_id": 5
+  },
+  {
+    "town": "Moragudi",
+    "district_id": 5
+  },
+  {
+    "town": "Muddanur",
+    "district_id": 5
+  },
+  {
+    "town": "Nagireddipalle",
+    "district_id": 5
+  },
+  {
+    "town": "Rameswaram",
+    "district_id": 5
+  },
+  {
+    "town": "Veparala",
+    "district_id": 5
+  },
+  {
+    "town": "Yerraguntla",
+    "district_id": 5
+  },
+  {
+    "town": "Guntupalli",
+    "district_id": 6
+  },
+  {
+    "town": "Ibrahimpatnam",
+    "district_id": 6
+  },
+  {
+    "town": "Kankipadu",
+    "district_id": 6
+  },
+  {
+    "town": "Kanuru",
+    "district_id": 6
+  },
+  {
+    "town": "Kondapalli",
+    "district_id": 6
+  },
+  {
+    "town": "Nadim Tiruvuru",
+    "district_id": 6
+  },
+  {
+    "town": "Poranki",
+    "district_id": 6
+  },
+  {
+    "town": "Prasadampadu",
+    "district_id": 6
+  },
+  {
+    "town": "Ramavarappadu",
+    "district_id": 6
+  },
+  {
+    "town": "Tadigadapa",
+    "district_id": 6
+  },
+  {
+    "town": "Yanamalakuduru",
+    "district_id": 6
+  },
+  {
+    "town": "Banaganapalle",
+    "district_id": 7
+  },
+  {
+    "town": "Banumukkala",
+    "district_id": 7
+  },
+  {
+    "town": "Bethamcherla",
+    "district_id": 7
+  },
+  {
+    "town": "Mamidalapadu",
+    "district_id": 7
+  },
+  {
+    "town": "Srisailam Project (RFC) Township",
+    "district_id": 7
+  },
+  {
+    "town": "Ramapuram",
+    "district_id": 7
+  },
+  {
+    "town": "Thummalamenta",
+    "district_id": 7
+  },
+  {
+    "town": "Buja Buja Nellore",
+    "district_id": 8
+  },
+  {
+    "town": "L.A. Sagaram",
+    "district_id": 8
+  },
+  {
+    "town": "Tada Khandrika",
+    "district_id": 8
+  },
+  {
+    "town": "Vinnamala",
+    "district_id": 8
+  },
+  {
+    "town": "Yerrabalem",
+    "district_id": 8
+  },
+  {
+    "town": "Chirala",
+    "district_id": 9
+  },
+  {
+    "town": "Cumbum",
+    "district_id": 9
+  },
+  {
+    "town": "Giddaluru",
+    "district_id": 9
+  },
+  {
+    "town": "Kanigiri",
+    "district_id": 9
+  },
+  {
+    "town": "Mulaguntapadu",
+    "district_id": 9
+  },
+  {
+    "town": "Pamur",
+    "district_id": 9
+  },
+  {
+    "town": "Podili",
+    "district_id": 9
+  },
+  {
+    "town": "Singarayakonda",
+    "district_id": 9
+  },
+  {
+    "town": "Vetapalem",
+    "district_id": 9
+  },
+  {
+    "town": "Balaga",
+    "district_id": 10
+  },
+  {
+    "town": "Hiramandalam",
+    "district_id": 10
+  },
+  {
+    "town": "Narasannapeta",
+    "district_id": 10
+  },
+  {
+    "town": "Ponduru",
+    "district_id": 10
+  },
+  {
+    "town": "Sompeta",
+    "district_id": 10
+  },
+  {
+    "town": "Tekkali",
+    "district_id": 10
+  },
+  {
+    "town": "Bowluvada",
+    "district_id": 11
+  },
+  {
+    "town": "Chodavaram",
+    "district_id": 11
+  },
+  {
+    "town": "Chintapalle",
+    "district_id": 11
+  },
+  {
+    "town": "Gudivada",
+    "district_id": 11
+  },
+  {
+    "town": "Kantabamsuguda",
+    "district_id": 11
+  },
+  {
+    "town": "Mulakuddu",
+    "district_id": 11
+  },
+  {
+    "town": "Nakkapalle",
+    "district_id": 11
+  },
+  {
+    "town": "Narsipatnam",
+    "district_id": 11
+  },
+  {
+    "town": "Peda Boddepalle",
+    "district_id": 11
+  },
+  {
+    "town": "Payakaraopeta",
+    "district_id": 11
+  },
+  {
+    "town": "Upper Sileru Project Site Camp",
+    "district_id": 11
+  },
+  {
+    "town": "Yelamanchili",
+    "district_id": 11
+  },
+  {
+    "town": "Cheepurupalle",
+    "district_id": 12
+  },
+  {
+    "town": "Chintalavalasa",
+    "district_id": 12
+  },
+  {
+    "town": "Gajapathinagaram",
+    "district_id": 12
+  },
+  {
+    "town": "Jarjapupeta",
+    "district_id": 12
+  },
+  {
+    "town": "Kanapaka",
+    "district_id": 12
+  },
+  {
+    "town": "Kothavalasa",
+    "district_id": 12
+  },
+  {
+    "town": "Malicherla",
+    "district_id": 12
+  },
+  {
+    "town": "Sriramnagar",
+    "district_id": 12
+  },
+  {
+    "town": "Tummikapalle",
+    "district_id": 12
+  },
+  {
+    "town": "Dwarakatirumala",
+    "district_id": 13
+  },
+  {
+    "town": "Gavaravaram",
+    "district_id": 13
+  },
+  {
+    "town": "Sanivarapupeta",
+    "district_id": 13
+  },
+  {
+    "town": "Satrampadu",
+    "district_id": 13
+  },
+  {
+    "town": "Tangellamudi",
+    "district_id": 13
+  }
+]
