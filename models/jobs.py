@@ -10,7 +10,6 @@
 # Sample JSON:  {"username":"RF","email":"fedex@gmail.com","password":"fedex", "isrecruiter" : 1}
 #-------------------------------------------------------------------------------
 from root import application, db, bcrypt
-from jwt import encode
 from datetime import datetime, timedelta
 from models import *
 from json import dumps, loads
@@ -33,7 +32,7 @@ class Jobs(db.Model):
 	closed_on = db.Column(db.DateTime)
 	isactive = db.Column(db.Boolean, nullable=False, default=True)
 
-			
+
 	@classmethod
 	def add_job(classname, _user):
 		pass
