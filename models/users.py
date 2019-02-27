@@ -10,7 +10,7 @@
 # Sample JSON:  {"username":"RF","email":"fedex@gmail.com","password":"fedex", "isrecruiter" : 1}
 #-------------------------------------------------------------------------------
 from root import application, db, bcrypt
-from jwt import encode
+#from jwt import encode
 from datetime import datetime, timedelta
 from models.seekerdetails import Seekerdetails
 
@@ -44,7 +44,7 @@ class Users(db.Model):
 		else:
 			print("absent")
 			return None
-			
+
 	@classmethod
 	def add_user(classname, _user):
 		try:
@@ -54,7 +54,7 @@ class Users(db.Model):
 			db.session.commit()
 		except Exception as e:
 			return e
-		
+
 		return classname.get_user_by_username(_user.username)
 
 	@classmethod
@@ -111,7 +111,7 @@ class Users(db.Model):
 			db.session.commit()
 		except:
 			return False
-		
+
 		return True
 
 
@@ -151,7 +151,8 @@ class Users(db.Model):
 				"sub": self.id,
 				"name": self.username
 			}
-			return encode(payload, self.username, headers=header)
+			#return encode(payload, self.username, headers=header)
+			return "hshhdhdsjlhlfdjh"
 		except Exception as e:
 			return e
 
