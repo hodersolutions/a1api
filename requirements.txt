@@ -6,6 +6,8 @@ cryptography==2.3.1
 enum34==1.1.6
 Flask==1.0.2
 flask_sqlalchemy==2.3.2
+flask_cors==3.0.7
+flask_bcrypt==0.7.1
 future==0.16.0
 gunicorn==19.9.0
 idna==2.7
