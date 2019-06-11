@@ -1,0 +1,1 @@
+CONNECTION_PARAMS = 'sqlite:///schoolbank.db'
